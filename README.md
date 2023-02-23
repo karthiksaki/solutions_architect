@@ -9,6 +9,8 @@
 8. Describe Amazon S3.
 9. Is it possible to use Amazon S3 with EC2 instances? If so, how?
 10.Describe cluster computing.
+
+
 11. Differentiate between block storage and object storage.
 12.Describe asynchronous encryption type.
 13.Differentiate between Amazon Rds, Redshift, and Dynamodb.
